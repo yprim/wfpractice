@@ -1,0 +1,7 @@
+\\pascal\Publico\Priscilla Mena Monge\practicas\PrimerPaginaWebForms\PrimerPaginaWebForms\bin\PrimerPaginaWebForms.dll
+\\pascal\Publico\Priscilla Mena Monge\practicas\PrimerPaginaWebForms\PrimerPaginaWebForms\bin\PrimerPaginaWebForms.pdb
+\\pascal\Publico\Priscilla Mena Monge\practicas\PrimerPaginaWebForms\PrimerPaginaWebForms\obj\Debug\PrimerPaginaWebForms.dll
+\\pascal\Publico\Priscilla Mena Monge\practicas\PrimerPaginaWebForms\PrimerPaginaWebForms\obj\Debug\PrimerPaginaWebForms.pdb
+\\pascal\Publico\Priscilla Mena Monge\practicas\PrimerPaginaWebForms\PrimerPaginaWebForms\bin\PrimerPaginaWebForms.dll.config
+\\pascal\Publico\Priscilla Mena Monge\practicas\PrimerPaginaWebForms\PrimerPaginaWebForms\obj\Debug\PrimerPaginaWebForms.csprojAssemblyReference.cache
+\\pascal\Publico\Priscilla Mena Monge\practicas\PrimerPaginaWebForms\PrimerPaginaWebForms\obj\Debug\PrimerPaginaWebForms.csproj.CoreCompileInputs.cache
